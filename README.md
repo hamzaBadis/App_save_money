@@ -1,4 +1,4 @@
-# vue-boot
+# Save Money
 
 ## Project setup
 ```
